@@ -20,6 +20,7 @@ body{
   justify-content: center;
   align-items: center;
   gap: 5rem;
+  overflow: hidden;
 }
 
 .flex{
